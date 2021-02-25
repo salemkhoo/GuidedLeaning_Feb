@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "6dfa1a7c-bb72-a069-5cf9-7682e7108032",
+    "Name": "GuidedLeaning_Feb",
+    "ModifiedOnUtc": "\/Date(1614227134000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

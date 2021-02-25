@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_ContactSaving.Caption" Value="Contact Saving" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess4_cdc54cd0e47a43df9930cf684cf5c957.Caption" Value="Contact Updating" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess5_882c472b82e649ecb83d6c900352c74b.Caption" Value="Contact Validating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage_ContactSaving.Caption" Value="Contact Saving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage_ContactUpdating.Caption" Value="Contact Updating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage_ContactValidating.Caption" Value="Contact Validating" />
+			<Item Name="EventsProcessSchema.Caption" Value="Contact" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5f62b3cf73184d548e5c4f23f7fe7bbf.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5f62b3cf73184d548e5c4f23f7fe7bbf.Lanes.Lane_e856e1246cc4457caae29d36e727bf6f.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.PreviousAccountValue.Caption" Value="PreviousAccountValue" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaParameter1.Caption" Value="ProcessSchemaParameter1" />
+		</Items>
+	</Group>
+</Resources>
